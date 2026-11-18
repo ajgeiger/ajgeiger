@@ -9,9 +9,8 @@ Lead Applied AI Scientist at Signature Aviation, where I build the forecasting a
 - MLOps in Databricks and MLflow, with a Testing, Challenger, Champion, and Retired lifecycle for models registered in Unity Catalog
 - Customer behavior and price sensitivity models used to test pricing changes before they ship
 
-My work code is private. The repos below are my own.
 
-## Repositories
+## Repositories of personal projects throughout the Years
 
 - [natural-gas-forecasting](https://github.com/ajgeiger/natural-gas-forecasting): daily natural gas price forecasts from futures, EIA storage, and weather data, with model tracking in MLflow. In progress.
 - [graduate-data-science-portfolio](https://github.com/ajgeiger/graduate-data-science-portfolio): Syracuse coursework, including retail sales forecasting with a rolling backtest.
