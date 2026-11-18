@@ -18,6 +18,10 @@ My work code is private. The repos below are my own.
 - [side-projects](https://github.com/ajgeiger/side-projects): includes my NFL Big Data Bowl solution, roughly top 1% of 2,038 teams.
 - [matlab-data-analysis-toolkit](https://github.com/ajgeiger/matlab-data-analysis-toolkit): MATLAB analysis code from undergrad at RIT, where I got started.
 
+## Kaggle
+
+- [Insightful & Vast USA Statistics EDA & EFA](https://www.kaggle.com/code/alexgeiger/insightful-vast-usa-statistics-eda-efa): bronze medal notebook from 2018, with 130 votes and 12,000+ views. Factor analysis of US Census data on mortgages, home equity debt, and disposable income, built on a dataset I published through Golden Oak Research.
+
 ## Tools
 
 Python, PySpark, SQL, R, MATLAB. PyTorch, LightGBM, XGBoost, Hugging Face, Optuna. Databricks, MLflow, Delta Lake, Azure, GitHub Actions.
