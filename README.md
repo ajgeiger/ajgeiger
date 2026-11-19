@@ -10,7 +10,7 @@ Lead Applied AI Scientist at Signature Aviation, where I build the forecasting a
 - Customer behavior and price sensitivity models used to test pricing changes before they ship
 
 
-## Repositories of personal projects throughout the Years
+## Repositories of personal projects throughout the years
 
 - [headline-radar](https://github.com/ajgeiger/headline-radar): groups live news headlines from GDELT and RSS feeds into topics with a BERTopic-style model I wrote from scratch.
 - [natural-gas-forecasting](https://github.com/ajgeiger/natural-gas-forecasting): daily natural gas price forecasts from futures, EIA storage, and weather data, with model tracking in MLflow. In progress.
