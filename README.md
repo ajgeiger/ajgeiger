@@ -12,8 +12,9 @@ Lead Applied AI Scientist at Signature Aviation, where I build the forecasting a
 
 ## Repositories of personal projects throughout the Years
 
+- [headline-radar](https://github.com/ajgeiger/headline-radar): groups live news headlines from GDELT and RSS feeds into topics with a BERTopic-style model I wrote from scratch.
 - [natural-gas-forecasting](https://github.com/ajgeiger/natural-gas-forecasting): daily natural gas price forecasts from futures, EIA storage, and weather data, with model tracking in MLflow. In progress.
-- [graduate-data-science-portfolio](https://github.com/ajgeiger/graduate-data-science-portfolio): Syracuse coursework, including retail sales forecasting with a rolling backtest.
+- [graduate-data-science-portfolio](https://github.com/ajgeiger/graduate-data-science-portfolio): Syracuse coursework, including retail sales forecasting with a rolling backtest, plus my MIT capstone on loan default prediction.
 - [side-projects](https://github.com/ajgeiger/side-projects): includes my NFL Big Data Bowl solution, roughly top 1% of 2,038 teams.
 - [matlab-data-analysis-toolkit](https://github.com/ajgeiger/matlab-data-analysis-toolkit): MATLAB analysis code from undergrad at RIT, where I got started.
 
