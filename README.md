@@ -12,9 +12,8 @@ I'm Alex Geiger, Lead Applied AI Scientist at Signature Aviation. Thank you for 
 
 ## Technical expertise
 
-- Forecasting over variable horizons that feeds decisions from staffing to dynamic pricing, where multiple models compete and are judged on how well they hold up across high-demand events, since those days carry the most business impact
+- Forecasting over variable horizons that feeds decisions from staffing to dynamic pricing, where multiple models compete and are judged on how well they hold up, then promoted through a Testing, Challenger, Champion, and Retired lifecycle in Databricks, MLflow, and Unity Catalog
 - Pricing models that turn demand forecasts into daily price multipliers, with customer price sensitivity estimated so changes can be tested before they ship
-- Model governance in Databricks, MLflow, and Unity Catalog, where every model moves through Testing, Challenger, Champion, and Retired stages
 - PySpark and Delta Lake pipelines that prepare the data behind forecasting and pricing
 - NLP, including a BERTopic-style topic model I wrote from scratch and a RAG chatbot with hybrid search and cited answers
 - At GHD, pipeline optimization software for major North American oil and gas networks, including automated pump and flow-rate control and a system that reduced pressure spikes by modeling transient waves with Fourier transforms and countering them with destructive interference
