@@ -12,7 +12,7 @@ I'm Alex Geiger, Lead Applied AI Scientist at Signature Aviation. Thank you for 
 
 ## Technical expertise
 
-- Forecasting with Chronos-2 and Greykite behind one interface, so models can be swapped and compared with rolling-origin backtests that mirror how the forecasts are used day to day
+- Forecasting over variable horizons, from next-day operations to longer-range planning, where multiple models compete and are judged on how well they hold up across high-demand events, since those days carry the most business impact
 - Pricing models that turn demand forecasts into daily price multipliers, with customer price sensitivity estimated so changes can be tested before they ship
 - Model governance in Databricks, MLflow, and Unity Catalog, where every model moves through Testing, Challenger, Champion, and Retired stages
 - PySpark and Delta Lake pipelines that prepare the data behind forecasting and pricing
