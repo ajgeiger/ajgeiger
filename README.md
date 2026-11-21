@@ -4,18 +4,10 @@ I'm Alex Geiger, Lead Applied AI Scientist at Signature Aviation. Thank you for 
 
 ## Areas of expertise
 
-- Demand forecasting that helps the business plan ahead for busy and slow periods
-- Dynamic pricing and yield management that set daily prices across 100+ locations
-- Customer behavior, including customer value, price sensitivity, propensity, and attrition
-- MLOps, keeping thousands of production models tested, governed, and up to date
-- NLP, including topic modeling and AI assistants that answer questions from documents
-
-## Technical expertise
-
-- Multi-horizon demand forecasting, with competing models selected on out-of-sample backtest accuracy and governed through a Testing, Challenger, Champion, and Retired lifecycle in Databricks, MLflow, and Unity Catalog
-- Dynamic pricing that sets daily price multipliers, with customer price sensitivity estimated so changes can be tested before they ship
-- NLP, including a BERTopic-style topic model I wrote from scratch and a RAG chatbot with hybrid search and cited answers
-- At GHD, pipeline optimization software for major North American oil and gas networks, including automated pump and flow-rate control and a system that reduced pressure spikes by modeling transient waves with Fourier transforms and countering them with destructive interference
+- Multi-horizon demand forecasting, with competing models selected on backtest accuracy and managed through a Testing, Challenger, Champion, and Retired lifecycle in Databricks, MLflow, and Unity Catalog
+- Dynamic pricing that sets daily price multipliers, using customer price sensitivity to test changes before they ship
+- NLP, including a BERTopic-style topic model I wrote from scratch and a RAG chatbot that answers questions with cited sources
+- At GHD, pipeline optimization software for major North American oil and gas networks, including automated pump and flow-rate control and a system that reduced pressure spikes by modeling transient pressure waves and canceling them out
 - At VyStar Credit Union, marketing propensity models for CD and credit card campaigns that raised member response rates about 10x
 
 ## Repositories of personal projects throughout the years
