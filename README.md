@@ -1,6 +1,8 @@
 # Alex Geiger
 
-Lead Applied AI Scientist at Signature Aviation, where I build the forecasting and pricing models behind a network of 100+ private aviation locations. I have been putting machine learning into production for about 9 years, before this at GHD (pipeline optimization for oil and gas networks) and VyStar Credit Union (propensity and attrition models).
+I'm Alex Geiger, Lead Applied AI Scientist at Signature Aviation. Thank you for taking an interest in my work. Below are a few of the projects I've built. I hope you enjoy taking a look.
+
+At Signature I build the forecasting and pricing models behind a network of 100+ private aviation locations. I have been putting machine learning into production for about 9 years, before this at GHD (pipeline optimization for oil and gas networks) and VyStar Credit Union (propensity and attrition models).
 
 ## What I work on
 
@@ -21,6 +23,8 @@ Lead Applied AI Scientist at Signature Aviation, where I build the forecasting a
 - [matlab-data-analysis-toolkit](https://github.com/ajgeiger/matlab-data-analysis-toolkit): MATLAB analysis code from undergrad at RIT, where I got started.
 
 ## Kaggle
+
+I'm a Kaggle Competitions Expert. My best competition finish is the NFL Big Data Bowl, roughly top 1% of 2,038 teams (code in [side-projects](https://github.com/ajgeiger/side-projects)).
 
 - [Insightful & Vast USA Statistics EDA & EFA](https://www.kaggle.com/code/alexgeiger/insightful-vast-usa-statistics-eda-efa): bronze medal notebook from 2018, with 130 votes and 12,000+ views. Factor analysis of US Census data on mortgages, home equity debt, and disposable income, built on a dataset I published through Golden Oak Research.
 
