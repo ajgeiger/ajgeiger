@@ -10,6 +10,14 @@ I'm Alex Geiger, Lead Applied AI Scientist at Signature Aviation. Thank you for 
 - MLOps, keeping thousands of production models tested, governed, and up to date
 - NLP, including topic modeling and AI assistants that answer questions from documents
 
+## Technical expertise
+
+- Forecasting with Chronos-2 and Greykite behind one interface, so models can be swapped and compared with rolling-origin backtests that mirror how the forecasts are used day to day
+- Pricing models that turn demand forecasts into daily price multipliers, with customer price sensitivity estimated so changes can be tested before they ship
+- Model governance in Databricks, MLflow, and Unity Catalog, where every model moves through Testing, Challenger, Champion, and Retired stages
+- PySpark and Delta Lake pipelines that prepare the data behind forecasting and pricing
+- NLP, including a BERTopic-style topic model I wrote from scratch and a RAG chatbot with hybrid search and cited answers
+
 ## Repositories of personal projects throughout the years
 
 - [portfolio-site](https://github.com/ajgeiger/portfolio-site): my portfolio website in Plotly Dash, with my resume, a news topic explorer built on headline-radar, and an Ask page that answers questions about my work.
