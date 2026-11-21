@@ -1,4 +1,4 @@
-# Alex Geiger
+# Welcome
 
 I'm Alex Geiger, Lead Applied AI Scientist at Signature Aviation. Thank you for taking an interest in my work. Below are a few of the projects I've built. I hope you enjoy taking a look.
 
