@@ -2,8 +2,6 @@
 
 I'm Alex Geiger, Lead Applied AI Scientist at Signature Aviation. Thank you for taking an interest in my work. Below are a few of the projects I've built. I hope you enjoy taking a look.
 
-At Signature I build the forecasting and pricing models behind a network of 100+ private aviation locations. I have been putting machine learning into production for about 9 years, before this at GHD (pipeline optimization for oil and gas networks) and VyStar Credit Union (propensity and attrition models).
-
 ## What I work on
 
 - Demand forecasting with Chronos-2, Greykite, and autoregressive baselines behind one interface, compared with rolling-origin backtests
