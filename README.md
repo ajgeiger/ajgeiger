@@ -1,6 +1,6 @@
 # Alex Geiger
 
-I'm Alex Geiger, Lead Applied AI Scientist at Signature Aviation, where I build the machine learning behind demand forecasting, dynamic pricing, and customer behavior across 100+ locations. Thank you for taking an interest in my work. Below are a few of the projects I've built, and I hope you enjoy looking through them.
+I'm Alex Geiger, Lead Applied AI Scientist at Signature Aviation. Thank you for taking an interest in my work. Below are a few of the projects I've built. I hope you enjoy taking a look.
 
 ## Areas of expertise
 
@@ -12,7 +12,7 @@ I'm Alex Geiger, Lead Applied AI Scientist at Signature Aviation, where I build 
 
 ## Technical expertise
 
-- Multi-horizon demand forecasting, with competing models selected on out-of-sample backtest accuracy and governed through a Testing, Challenger, Champion, and Retired lifecycle in Databricks, MLflow, and Unity Catalog
+- Demand forecasting across short- and long-term horizons, with competing models selected on out-of-sample backtest accuracy and governed through a Testing, Challenger, Champion, and Retired lifecycle in Databricks, MLflow, and Unity Catalog
 - Dynamic pricing that sets daily price multipliers, with customer price sensitivity estimated so changes can be tested before they ship
 - NLP, including a BERTopic-style topic model I wrote from scratch and a RAG chatbot with hybrid search and cited answers
 - At GHD, pipeline optimization software for major North American oil and gas networks, including automated pump and flow-rate control and a system that reduced pressure spikes by modeling transient waves with Fourier transforms and countering them with destructive interference
