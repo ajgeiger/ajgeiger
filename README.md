@@ -4,11 +4,11 @@ I'm Alex Geiger, Lead Applied AI Scientist at Signature Aviation. Thank you for 
 
 ## Areas of expertise
 
-- Demand forecasting with Chronos-2, Greykite, and autoregressive baselines, compared with rolling-origin backtests
-- Dynamic pricing and yield management, turning forecasts into daily prices across 100+ locations
-- Customer behavior modeling, including customer value, price sensitivity, propensity, and attrition
-- MLOps in Databricks and MLflow, managing thousands of production models through a Testing, Challenger, Champion, and Retired lifecycle in Unity Catalog
-- NLP, including topic modeling and retrieval augmented generation
+- Demand forecasting that helps the business plan ahead for busy and slow periods
+- Dynamic pricing and yield management that set daily prices across 100+ locations
+- Customer behavior, including customer value, price sensitivity, propensity, and attrition
+- MLOps, keeping thousands of production models tested, governed, and up to date
+- NLP, including topic modeling and AI assistants that answer questions from documents
 
 ## Repositories of personal projects throughout the years
 
