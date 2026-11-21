@@ -7,8 +7,8 @@ I'm Alex Geiger, Lead Applied AI Scientist at Signature Aviation. Thank you for 
 - Multi-horizon demand forecasting, with competing models selected on backtest accuracy and managed through a Testing, Challenger, Champion, and Retired lifecycle in Databricks, MLflow, and Unity Catalog
 - Dynamic pricing that sets daily price multipliers, using customer price sensitivity to test changes before they ship
 - NLP, including a BERTopic-style topic model I wrote from scratch and a RAG chatbot that answers questions with cited sources
-- Physical AI for industrial control systems, such as real-time pipeline control at GHD that optimized flow to lower the cost of moving oil and gas and reduced pressure spikes
-- At VyStar Credit Union, marketing propensity models that targeted CD and credit card campaigns to the members most likely to respond
+- Physical AI for industrial control systems, such as real-time pipeline control that optimizes flow to lower the cost of moving oil and gas and reduces pressure spikes
+- Marketing propensity models that target campaigns to the customers most likely to respond
 
 ## Repositories of personal projects throughout the years
 
