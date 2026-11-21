@@ -8,7 +8,7 @@ I'm Alex Geiger, Lead Applied AI Scientist at Signature Aviation. Thank you for 
 - Dynamic pricing that sets daily price multipliers, using customer price sensitivity to test changes before they ship
 - NLP, including a BERTopic-style topic model I wrote from scratch and a RAG chatbot that answers questions with cited sources
 - Physical AI for industrial control systems, such as real-time pipeline control that optimizes flow to lower the cost of moving oil and gas and reduces pressure spikes
-- Marketing propensity models that target campaigns to the customers most likely to respond
+- Propensity models that predict which customers are most likely to sign up for a product, like a credit card or CD, so marketing can advertise to the right people
 
 ## Repositories of personal projects throughout the years
 
