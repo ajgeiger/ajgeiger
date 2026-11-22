@@ -4,7 +4,7 @@ Hi, I'm Alex Geiger, Lead Applied AI Scientist at Signature Aviation. Thank you 
 
 ## Areas of expertise
 
-- Multi-horizon demand forecasting, with competing models selected on backtest accuracy and managed through a Testing, Challenger, Champion, and Retired lifecycle in Databricks, MLflow, and Unity Catalog
+- Demand forecasting across many series, models, and model versions, where each forecast window, such as the first 15 days or days 16 to 30, goes to the champion that performs best over an evaluation period, and those winners are stitched into one forecast. Models move through a Testing, Challenger, Champion, and Retired lifecycle in Databricks, MLflow, and Unity Catalog.
 - Dynamic pricing driven by the demand forecast, setting daily price multipliers across locations
 - Customer behavior modeling that measures price sensitivity and response to inform product design, pricing strategy, and promotions
 - NLP, including a BERTopic-style topic model written from scratch and a RAG chatbot that answers questions with cited sources using hybrid search
