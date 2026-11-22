@@ -14,7 +14,7 @@ Hi, I'm Alex Geiger, Lead Applied AI Scientist at Signature Aviation. Thank you 
 ## Repositories of personal projects throughout the years
 
 - [portfolio-site](https://github.com/ajgeiger/portfolio-site): my portfolio website in Plotly Dash, with my resume, a news topic explorer built on headline-radar, and an Ask page that answers questions about my work.
-- [Beyond-the-Resume](https://github.com/ajgeiger/Beyond-the-Resume): a chatbot you can ask about my experience, skills and projects. It searches my resume, this site and my project write ups with keyword and semantic search together, then Claude Sonnet answers from what it found. It powers the Ask page.
+- [Beyond-the-Resume](https://github.com/ajgeiger/Beyond-the-Resume): a chatbot you can ask about my experience, skills and projects. It searches my resume and my project write ups with keyword and semantic search together, then Claude Sonnet answers from what it found.
 - [headline-radar](https://github.com/ajgeiger/headline-radar): groups live news headlines from GDELT and RSS feeds into topics with a BERTopic-style model I wrote from scratch.
 - [natural-gas-forecasting](https://github.com/ajgeiger/natural-gas-forecasting): daily natural gas price forecasts from futures, EIA storage, and weather data, with model tracking in MLflow. In progress.
 - [graduate-data-science-portfolio](https://github.com/ajgeiger/graduate-data-science-portfolio): Syracuse coursework, including retail sales forecasting with a rolling backtest, plus my MIT capstone on loan default prediction.
