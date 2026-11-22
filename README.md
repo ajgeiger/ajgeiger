@@ -5,7 +5,8 @@ Hi, I'm Alex Geiger, Lead Applied AI Scientist at Signature Aviation. Thank you 
 ## Areas of expertise
 
 - Multi-horizon demand forecasting, with competing models selected on backtest accuracy and managed through a Testing, Challenger, Champion, and Retired lifecycle in Databricks, MLflow, and Unity Catalog
-- Dynamic pricing that sets daily price multipliers, using customer price sensitivity to test changes before they ship
+- Dynamic pricing driven by the demand forecast, setting daily price multipliers across locations
+- Customer behavior modeling that measures price sensitivity and response to inform product design, pricing strategy, and promotions
 - NLP, including a BERTopic-style topic model written from scratch and a RAG chatbot that answers questions with cited sources using hybrid search
 - Physical AI for industrial control systems, such as real-time pipeline control that optimizes flow to lower the cost of moving oil and gas and reduces pressure spikes
 - Propensity models that predict customer likelihood of enrolling in products (e.g., credit cards, CDs) for more precise marketing outreach
